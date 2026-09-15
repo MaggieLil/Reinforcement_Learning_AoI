@@ -102,7 +102,7 @@ The main comparison is based on the cumulative average AoI. Lower values indicat
 
 ### Cumulative Average AoI
 
-![Cumulative Average AoI](results/DEFAULT/comparison_cumulative.png)
+![Cumulative Average AoI](results/default/comparison_cumulative.png)
 
 The experimental results show that **GR-learning with Softmax exploration achieves the lowest average AoI** among the evaluated methods. GR-learning with epsilon-greedy performs slightly worse, while the greedy baseline and Q-learning achieve higher average AoI in the conducted experiments.
 
